@@ -3,5 +3,6 @@ Macro for a true afk experience points farm in Frontier Clash mode in Tower of F
 
 FC Normal 3.json file is the macro, import it to your Bluestacks instance where you play Tower of Fantasy.
 For best operation you should have 30-60 Latency or Ping to the server and pretty fast matchmaking.
+Also disable Power Saving mode in-game setting!
 
 Might make a AutoHotkey version as well tonight.... Coffeeeeeeeeeee....
