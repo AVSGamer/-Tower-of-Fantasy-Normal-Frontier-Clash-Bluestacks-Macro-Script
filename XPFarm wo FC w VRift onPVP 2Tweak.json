@@ -1,0 +1,2896 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20220907T124959",
+    "DoNotShowWindowOnFinish": true,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4183,
+            "X": 92.23999786376953,
+            "Y": 68.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4216,
+            "X": 92.16999816894531,
+            "Y": 68.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4348,
+            "X": 92.16999816894531,
+            "Y": 68.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 6125,
+            "X": 92.16999816894531,
+            "Y": 68.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 6317,
+            "X": 92.16999816894531,
+            "Y": 68.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8623,
+            "X": 88.0999984741211,
+            "Y": 6.539999961853027
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8823,
+            "X": 88.0999984741211,
+            "Y": 6.539999961853027
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 11576,
+            "X": 12.8100004196167,
+            "Y": 54.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 11762,
+            "X": 12.8100004196167,
+            "Y": 54.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 14523,
+            "X": 80.5,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14723,
+            "X": 80.5,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14740,
+            "X": 80.41999816894531,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14744,
+            "X": 80.3499984741211,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14750,
+            "X": 80.2699966430664,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14752,
+            "X": 80.19000244140625,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14756,
+            "X": 80.04000091552734,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14758,
+            "X": 79.80999755859375,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14760,
+            "X": 79.58000183105469,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14762,
+            "X": 79.43000030517578,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14764,
+            "X": 79.19999694824219,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14766,
+            "X": 78.97000122070312,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14768,
+            "X": 78.73999786376953,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14770,
+            "X": 78.58000183105469,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14771,
+            "X": 78.3499984741211,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14773,
+            "X": 78.12000274658203,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14776,
+            "X": 77.97000122070312,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14778,
+            "X": 77.73999786376953,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14780,
+            "X": 77.51000213623047,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14782,
+            "X": 77.3499984741211,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14784,
+            "X": 77.12000274658203,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14786,
+            "X": 76.88999938964844,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14788,
+            "X": 76.66000366210938,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14790,
+            "X": 76.43000030517578,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14792,
+            "X": 76.19999694824219,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14794,
+            "X": 75.97000122070312,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14796,
+            "X": 75.73999786376953,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14798,
+            "X": 75.51000213623047,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14800,
+            "X": 75.27999877929688,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14802,
+            "X": 75.05000305175781,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14804,
+            "X": 74.81999969482422,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14806,
+            "X": 74.58999633789062,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14808,
+            "X": 74.36000061035156,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14810,
+            "X": 74.20999908447266,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14812,
+            "X": 73.9800033569336,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14813,
+            "X": 73.75,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14816,
+            "X": 73.5199966430664,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14818,
+            "X": 73.36000061035156,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14820,
+            "X": 73.12999725341797,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14822,
+            "X": 72.9800033569336,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14824,
+            "X": 72.83000183105469,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14826,
+            "X": 72.66999816894531,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14828,
+            "X": 72.5999984741211,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14830,
+            "X": 72.37000274658203,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14832,
+            "X": 72.29000091552734,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14834,
+            "X": 72.13999938964844,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14836,
+            "X": 72.05999755859375,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14838,
+            "X": 71.91000366210938,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14840,
+            "X": 71.83000183105469,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14842,
+            "X": 71.75,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14844,
+            "X": 71.68000030517578,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14846,
+            "X": 71.5199966430664,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14851,
+            "X": 71.37000274658203,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14852,
+            "X": 71.29000091552734,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14856,
+            "X": 71.22000122070312,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14858,
+            "X": 71.13999938964844,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14860,
+            "X": 71.05999755859375,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14862,
+            "X": 70.98999786376953,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14866,
+            "X": 70.91000366210938,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14868,
+            "X": 70.83000183105469,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14870,
+            "X": 70.75,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14872,
+            "X": 70.68000030517578,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14874,
+            "X": 70.5999984741211,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14878,
+            "X": 70.5199966430664,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14880,
+            "X": 70.44999694824219,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14882,
+            "X": 70.37000274658203,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14884,
+            "X": 70.29000091552734,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14888,
+            "X": 70.22000122070312,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14890,
+            "X": 70.13999938964844,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14893,
+            "X": 70.05999755859375,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14896,
+            "X": 69.98999786376953,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14897,
+            "X": 69.91000366210938,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14900,
+            "X": 69.83000183105469,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14904,
+            "X": 69.76000213623047,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14906,
+            "X": 69.68000030517578,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14910,
+            "X": 69.5999984741211,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14912,
+            "X": 69.52999877929688,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14914,
+            "X": 69.44999694824219,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14918,
+            "X": 69.37000274658203,
+            "Y": 48.43000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14920,
+            "X": 69.30000305175781,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14922,
+            "X": 69.22000122070312,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14924,
+            "X": 69.13999938964844,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14926,
+            "X": 69.06999969482422,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14930,
+            "X": 68.98999786376953,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14932,
+            "X": 68.91000366210938,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14934,
+            "X": 68.83999633789062,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14936,
+            "X": 68.76000213623047,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14940,
+            "X": 68.68000030517578,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14942,
+            "X": 68.61000061035156,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14943,
+            "X": 68.52999877929688,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14946,
+            "X": 68.44999694824219,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14948,
+            "X": 68.37999725341797,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14950,
+            "X": 68.30000305175781,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14952,
+            "X": 68.22000122070312,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14956,
+            "X": 68.06999969482422,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14960,
+            "X": 67.98999786376953,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14962,
+            "X": 67.91999816894531,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14964,
+            "X": 67.83999633789062,
+            "Y": 48.560001373291016
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14966,
+            "X": 67.76000213623047,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14970,
+            "X": 67.61000061035156,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14974,
+            "X": 67.52999877929688,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14976,
+            "X": 67.44999694824219,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14978,
+            "X": 67.37999725341797,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14980,
+            "X": 67.30000305175781,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14982,
+            "X": 67.22000122070312,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14986,
+            "X": 67.06999969482422,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14990,
+            "X": 66.98999786376953,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14992,
+            "X": 66.91999816894531,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14994,
+            "X": 66.83999633789062,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14996,
+            "X": 66.76000213623047,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15000,
+            "X": 66.69000244140625,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15002,
+            "X": 66.61000061035156,
+            "Y": 48.70000076293945
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15004,
+            "X": 66.52999877929688,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15009,
+            "X": 66.45999908447266,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15010,
+            "X": 66.37999725341797,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15012,
+            "X": 66.30000305175781,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15014,
+            "X": 66.2300033569336,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15019,
+            "X": 66.1500015258789,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15020,
+            "X": 66.06999969482422,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15024,
+            "X": 66,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15026,
+            "X": 65.91999816894531,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15030,
+            "X": 65.83999633789062,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15032,
+            "X": 65.7699966430664,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15036,
+            "X": 65.69000244140625,
+            "Y": 48.84000015258789
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15043,
+            "X": 65.61000061035156,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15046,
+            "X": 65.54000091552734,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15048,
+            "X": 65.45999908447266,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15054,
+            "X": 65.37999725341797,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15058,
+            "X": 65.30999755859375,
+            "Y": 48.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15062,
+            "X": 65.30999755859375,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15064,
+            "X": 65.2300033569336,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15066,
+            "X": 65.1500015258789,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15073,
+            "X": 65.08000183105469,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15079,
+            "X": 65,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15085,
+            "X": 64.91999816894531,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15085,
+            "X": 64.8499984741211,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15092,
+            "X": 64.7699966430664,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15098,
+            "X": 64.69000244140625,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15102,
+            "X": 64.62000274658203,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15108,
+            "X": 64.54000091552734,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15112,
+            "X": 64.45999908447266,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15121,
+            "X": 64.37999725341797,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15128,
+            "X": 64.30999755859375,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15136,
+            "X": 64.2300033569336,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15143,
+            "X": 64.1500015258789,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15150,
+            "X": 64.08000183105469,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15158,
+            "X": 64,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15164,
+            "X": 63.91999816894531,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15166,
+            "X": 63.849998474121094,
+            "Y": 49.11000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15170,
+            "X": 63.77000045776367,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15176,
+            "X": 63.689998626708984,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15180,
+            "X": 63.619998931884766,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15182,
+            "X": 63.540000915527344,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15186,
+            "X": 63.459999084472656,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15190,
+            "X": 63.38999938964844,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15194,
+            "X": 63.310001373291016,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15195,
+            "X": 63.22999954223633,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15204,
+            "X": 63.15999984741211,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15210,
+            "X": 63.08000183105469,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15219,
+            "X": 63,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15222,
+            "X": 62.93000030517578,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15232,
+            "X": 62.849998474121094,
+            "Y": 49.2400016784668
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15241,
+            "X": 62.849998474121094,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15242,
+            "X": 62.77000045776367,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15253,
+            "X": 62.70000076293945,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15256,
+            "X": 62.619998931884766,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15265,
+            "X": 62.540000915527344,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15274,
+            "X": 62.470001220703125,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15286,
+            "X": 62.38999938964844,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 15294,
+            "X": 62.310001373291016,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 15714,
+            "X": 62.310001373291016,
+            "Y": 49.380001068115234
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 17384,
+            "X": 80.41999816894531,
+            "Y": 37.650001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 17546,
+            "X": 80.41999816894531,
+            "Y": 37.650001525878906
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 20192,
+            "X": 95.62000274658203,
+            "Y": 91.54000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 20373,
+            "X": 95.62000274658203,
+            "Y": 91.54000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 25566,
+            "X": 72.13999938964844,
+            "Y": 76.12000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 25618,
+            "X": 72.13999938964844,
+            "Y": 75.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 25712,
+            "X": 72.13999938964844,
+            "Y": 75.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 29392,
+            "X": 59.16999816894531,
+            "Y": 54.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 29573,
+            "X": 59.16999816894531,
+            "Y": 54.970001220703125
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 33560,
+            "X": 45.119998931884766,
+            "Y": 80.48999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 33732,
+            "X": 45.119998931884766,
+            "Y": 80.48999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 55681,
+            "X": 59.630001068115234,
+            "Y": 69.16000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 55826,
+            "X": 59.630001068115234,
+            "Y": 69.16000366210938
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 85698
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 85949
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 85982
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86014
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86048
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86080
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86114
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86147
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86179
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86213
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86246
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86278
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 86327,
+            "X": 53.790000915527344,
+            "Y": 81.16999816894531
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86344
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86377
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86410
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86444
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 86460,
+            "X": 53.790000915527344,
+            "Y": 81.16999816894531
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86478
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86509
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86542
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86575
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86609
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86642
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86674
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86707
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86740
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86775
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86807
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86839
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86872
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86905
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86939
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 86971
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87004
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87037
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87071
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87104
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87136
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87169
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87202
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87236
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 87246,
+            "X": 60.93000030517578,
+            "Y": 82.94000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 87268,
+            "X": 60.849998474121094,
+            "Y": 82.94000244140625
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87269
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87301
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87334
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87367
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 87389,
+            "X": 60.849998474121094,
+            "Y": 82.94000244140625
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87401
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87434
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87466
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87500
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87532
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87565
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87598
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87631
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87664
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87698
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87730
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87763
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87797
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87829
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87862
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87895
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87928
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87962
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 87994
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88027
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88060
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88094
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88127
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88159
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88192
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88225
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88258
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88291
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88324
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88357
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88391
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88423
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88457
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88489
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88522
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88556
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88589
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 88621
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Alt",
+            "Timestamp": 88641
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704544
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704794
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704827
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704860
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704893
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704926
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704959
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 704992
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705025
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705058
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705091
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705124
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705157
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705190
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705224
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705256
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705290
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705322
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705354
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705388
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705421
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705454
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705487
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705520
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705553
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705586
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705619
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705652
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705685
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705718
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705751
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705784
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705816
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705850
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705883
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705916
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705949
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 705981
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706015
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 706019,
+            "X": 92.16999816894531,
+            "Y": 69.30000305175781
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706048
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706081
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706114
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706146
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 706170,
+            "X": 92.16999816894531,
+            "Y": 69.30000305175781
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706180
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706213
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706246
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706279
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706312
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706345
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706378
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706411
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706443
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706478
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706510
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706543
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706576
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706608
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706642
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706675
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706708
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706741
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706774
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706807
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706839
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706873
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706906
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706939
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 706972
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707005
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707038
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707071
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707104
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707136
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707170
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707203
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707236
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707269
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707301
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 707319,
+            "X": 92.16999816894531,
+            "Y": 69.30000305175781
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707335
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707368
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707401
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707434
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707466
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707500
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 707522,
+            "X": 92.16999816894531,
+            "Y": 69.30000305175781
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707533
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707566
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707599
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707631
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707665
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707698
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707731
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707764
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707797
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707830
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707863
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707896
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707928
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707962
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 707995
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708028
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708061
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708093
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708127
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708160
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708193
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708226
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708259
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708291
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708325
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708358
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708391
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708424
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708456
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708490
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708523
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708556
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708589
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708622
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708655
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708687
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708721
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708753
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708787
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708820
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708853
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708886
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708918
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708952
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 708985
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709018
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709051
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709084
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709117
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709150
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709183
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709215
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709249
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709282
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709315
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709348
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709380
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709414
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709447
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709480
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709513
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709545
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709579
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709612
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709645
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709678
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709710
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709744
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709777
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709810
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709842
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709876
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709909
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709942
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 709975
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710007
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710041
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710074
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710107
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710140
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710173
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710206
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710238
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710272
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710305
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710338
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710371
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710403
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710437
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710470
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710503
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710536
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710568
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710602
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710635
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710668
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710701
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710733
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710767
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710800
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710833
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710866
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710898
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710932
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710965
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 710998
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711031
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711063
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711097
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711130
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711163
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711196
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711228
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711262
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711295
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711328
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711360
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711394
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711427
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711460
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711493
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711525
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711559
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711592
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Alt",
+            "Timestamp": 711625
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 3,
+    "LoopIterations": 1,
+    "LoopType": "UntilStopped",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": ""
+}
